@@ -1,0 +1,4 @@
+# Ignore local files
+airline_files/
+*.zip
+.DS_Store
