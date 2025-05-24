@@ -2,7 +2,7 @@
 # delete_airline_resources.sh - Delete all resources created for the airline solution
 
 # Set your stack name
-STACK_NAME="AirlineSolution"
+STACK_NAME="Airlines"
 REGION=$(aws configure get region || echo "eu-west-1")
 
 # If you deployed using CloudFormation, you can delete everything with:
